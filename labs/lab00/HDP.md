@@ -207,14 +207,14 @@ SSH Port Number: 22
 * Sqoop
 * Oozie
 * ZooKeeper
-* Storm
+* ~~Storm~~
 * Ambari Infra
 * Ambari Metrics
 * Kafka
 * Smart Sense
 * Spark2
 * Slider
-* Druid
+* ~~Druid~~
 
 Все остальные сервисы нам не нужны, выключите их. Разумеется, если вам хочется поэкспериментировать, мы вас не останавливаем :)
 
