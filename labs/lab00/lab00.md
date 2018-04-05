@@ -53,6 +53,10 @@
 
 ```$ wget http://data.nplcloud.com/data-newprolab-com/facetz_2015_02_01/part-00018```
 
+Для того, чтобы узнать наименование всех файлов в вашей директории, воспользуйтесь данной ссылок 
+
+`http://data.nplcloud.com/data-newprolab-com/links.list`
+
 Залейте эти данные себе на HDFS. Для этого перейдите под пользователя hdfs:
 
 ```$ sudo su hdfs```
