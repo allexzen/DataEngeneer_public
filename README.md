@@ -4,7 +4,7 @@
 
 **Материалы**:
 
-* [**Data Engineering в XING**](materials/2018-04-13_Data-engineering-в-XING_Николай-Рекубратский.pdf) (Николай Рекубратский)
+* [**Data Engineering в XING**](materials/2018-04-13_Data-Engineering-в-XING_Николай-Рекубратский.pdf) (Николай Рекубратский)
 
 ### 11 апреля 2018
 
