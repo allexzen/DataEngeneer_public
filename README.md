@@ -1,5 +1,11 @@
 # Учебное пространство Newprolab Data Engineer 2.0
 
+### 13 апреля 2018
+
+**Материалы**:
+
+* [**Data Engineering в XING**](materials/2018-04-13_Data-engineering-в-XING_Николай-Рекубратский.pdf) (Николай Рекубратский)
+
 ### 11 апреля 2018
 
 **Лабы**:
