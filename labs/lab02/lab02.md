@@ -238,7 +238,11 @@ $ sudo -i service logstash start
 
 <img src="http://data.newprolab.com/public-newprolab-com/de_lab02_kibana.png" align="center">
 
-### 3. Ссылки для изучения
+### 3. Проверка
+Проверка осуществляется из Личного кабинета , используя REST API ElasticSearch. Он подключится к указанному вами хосту на 9200 порте. Индекс в ElasticSearch должен совпадать с логином ЛК.
+
+
+### 4. Ссылки для изучения
 
 * <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html ">Документация по Elasticsearch</a> 
 * <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html">Документация по Kibana</a>
