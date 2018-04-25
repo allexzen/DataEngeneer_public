@@ -165,8 +165,8 @@ mapping {
 ```
 mappings {
     my_mapping = {
-      schema_file = "/home/ubuntu/divolte-collector-0.6.0/conf/DefaultEventRecord.avsc"
-      mapping_script_file = "/home/ubuntu/divolte-collector-0.6.0/conf/DefaultMapping.groovy"
+      schema_file = "/home/ubuntu/divolte-collector-0.6.0/conf/eventrecord.avsc"
+      mapping_script_file = "/home/ubuntu/divolte-collector-0.6.0/conf/mapping.groovy"
       sources = [browser]
       sinks = [hdfs, kafka]
     }
@@ -181,7 +181,7 @@ mappings {
 input {
     kafka {
         codec => avro {
-            schema_uri => '/home/ubuntu/divolte-collector-0.6.0/conf/DefaultEventRecord.avsc'
+            schema_uri => '/home/ubuntu/divolte-collector-0.6.0/conf/eventrecord.avsc'
             tag_on_failure => 'true'
             encode_as_base64 => 'false'
         }
