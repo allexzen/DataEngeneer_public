@@ -1,4 +1,10 @@
 # Учебное пространство Newprolab Data Engineer 2.0
+### 09 мая 2018
+
+**Лабы**:
+
+
+- [**Лаба 5. Real-time пайплайн с Spark Streaming и Grafana**](labs/lab05/de_lab_05.md)
 
 ### 04 мая 2018
 
