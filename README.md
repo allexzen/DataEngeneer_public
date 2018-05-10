@@ -3,8 +3,13 @@
 
 **Лабы**:
 
-
 - [**Лаба 5. Real-time пайплайн с Spark Streaming и Grafana**](labs/lab05/de_lab_05.md)
+
+### 07 мая 2018
+
+**Материалы**:
+
+* [**Tarantool**](materials/2018-05-07_Tarantool_Александр-Краснощеков.pdf) (Алекасандр Краснощеков)
 
 ### 04 мая 2018
 
